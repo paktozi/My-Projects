@@ -14,7 +14,7 @@ namespace Square.Core
         private readonly IWriter writer;
         private readonly IFileWriter fileWriter;
         private readonly IFactory factory;
-        FigureRepository repository;
+        FigureCollections repository;
         double[] calculatedSquareMt = new double[2];
 
         public Engine(IReader reader, IWriter writer, IFileWriter fileWriter, IFactory factory)
@@ -23,7 +23,7 @@ namespace Square.Core
             this.writer = writer;
             this.fileWriter = fileWriter;
             this.factory = factory;
-            repository = new FigureRepository();
+            repository = new FigureCollections();
         }
 
         public void Run()
