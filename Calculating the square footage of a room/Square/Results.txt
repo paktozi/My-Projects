@@ -1,0 +1,16 @@
+Wall: 4.06m²
+---------------------
+Window reveal: 1.87m²
+Window: 2.39m²
+---------------------
+Wall: 11.86m²
+---------------------
+Window: 2.62m²
+---------------------
+Window reveal: 1.64m²
+Window: 2.46m²
+---------------------
+Total Walls area 13.49m²
+Total Windows area  5.09m²
+Final Walls clear area to paint 8.4m²
+######################################
